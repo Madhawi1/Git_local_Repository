@@ -14,7 +14,13 @@ namespace SLAF_Project
     {
         public Form1()
         {
+            MessageBox.Show("Hello");
             InitializeComponent();
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

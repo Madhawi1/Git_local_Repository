@@ -25,7 +25,7 @@ namespace SLAF_Project.GUIs
         private void intializeMy()
         {
             textBox2.Text = "";
-            textBox2.PasswordChar = "*";
+            textBox2.PasswordChar = '*';
                     
         }
     }
