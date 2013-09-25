@@ -14,13 +14,10 @@ namespace SLAF_Project
     {
         public Form1()
         {
-            MessageBox.Show("Hello");
+            MessageBox.Show("Welcome to SLAF Medical System!");
             InitializeComponent();
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
