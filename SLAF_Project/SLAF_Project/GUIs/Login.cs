@@ -28,5 +28,10 @@ namespace SLAF_Project.GUIs
             textBox2.PasswordChar = '*';
                     
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Login Successful!");
+        }
     }
 }
